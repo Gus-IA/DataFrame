@@ -1,0 +1,1 @@
+echo -e "pandas\nwget\npatool\ntabulate" > requirements.txt
